@@ -45,6 +45,10 @@ div div {
   background: yellow;
 }
 
+.pink {
+    background: pink;
+}
+
 .pallette-white {
   background: white;
   height: 2%;
@@ -84,6 +88,13 @@ div div {
 
 .pallette-blue {
   background: blue;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
+
+.pallette-pink {
+  background: pink;
   height: 2%;
   width: 1%;
   padding: 10px;
